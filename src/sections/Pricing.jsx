@@ -65,6 +65,7 @@ const Pricing = () => {
           </div>
 
           {/* pricing */}
+          <div className=""></div>
         </div>
       </Element>
     </section>
